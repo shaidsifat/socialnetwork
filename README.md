@@ -1,4 +1,4 @@
-# socialnetwork
+How to open project...
 
 
 # pip install virtualenv
