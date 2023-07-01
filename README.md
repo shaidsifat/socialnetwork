@@ -1,6 +1,6 @@
 How to open project...
 
-#pip install virtualenv 
+# pip install virtualenv 
 python -m venv env
 .env/Scripts/activate
 pip install -r requirements.txt
